@@ -2,7 +2,7 @@
 title: Works
 draft: false
 tags:
-  - example-tag
+  - Public-Art
 ---
 ### 3D Modelling
 
@@ -10,4 +10,4 @@ tags:
 
 ### [[Fabrication]]
 
-### [[3.1 Community Engagement]]
+### [[Community]]

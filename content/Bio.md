@@ -1,5 +1,5 @@
 ---
-title: Bio
+title: Aelithea
 draft: false
 tags:
   - example-tag
