@@ -12,13 +12,12 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "google", tagId:"G-TG5CEPXKQ3"
+      provider: "google", tagId: "G-TG5CEPXKQ3"
     },
     locale: "en-US",
-    baseUrl: "moterisma.github.io/quartz/",
+    baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultD
-    ateType: "created",
+    defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
