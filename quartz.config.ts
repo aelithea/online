@@ -15,16 +15,16 @@ const config: QuartzConfig = {
       provider: "google", tagId: "G-TG5CEPXKQ3"
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "moterisma.github.io/quartz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Ubuntu",
+        body: "Ubuntu Sans",
+        code: "Ubuntu Mono",
       },
       colors: {
         lightMode: {
@@ -45,7 +45,7 @@ const config: QuartzConfig = {
           darkgray: "#d4d4d4",
           dark: "#ebebec",
           secondary: "#7b97aa",
-          tertiary: "#84a59d",
+          tertiary: "#53d6b6",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#b3aa0288",
         },
