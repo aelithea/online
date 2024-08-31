@@ -8,22 +8,22 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Studio + Art + Practice",
+    pageTitle: "Ædea Projects",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "google", tagId: "G-TG5CEPXKQ3"
     },
     locale: "en-US",
-    baseUrl: "moterisma.github.io/quartz",
+    baseUrl: "aelithea.github.io/online",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Cairo Play",
-        body: "Cairo",
+        header: "DM Serif Text",
+        body: "Zen Maru Gothic",
         code: "Ubuntu Mono",
       },
       colors: {

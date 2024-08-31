@@ -1,8 +1,8 @@
 ---
-title: Welcome to Nata de CoCreations
+title: Ædea Projects
 ---
 #### Sculpting Public Spaces, Shaping the Future
-![[Logo.png]]
+
 At **CoCreations**, we transform ideas into tangible experiences that resonate within the public realm. Our work bridges the gap between art and community, creating sculptures that engage, inspire, and endure. Led by Natalie and supported by a talented team of artists and designers, we specialize in public sculpture and 3D modeling, turning visions into iconic landmarks.
 
 #### Public Sculpture
