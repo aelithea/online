@@ -1,5 +1,5 @@
 ---
-title: Work
+title: Works
 draft: false
 tags:
   - example-tag
