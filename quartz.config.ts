@@ -22,8 +22,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Bungee Hairline",
-        body: "Cairo Play",
+        header: "Cairo Play",
+        body: "Cairo",
         code: "Ubuntu Mono",
       },
       colors: {
