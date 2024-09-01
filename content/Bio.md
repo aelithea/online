@@ -1,6 +1,5 @@
 ---
-title: .Bio
-draft: false
+title: About
+draft: true
 tags:
-  - example-tag
 ---
